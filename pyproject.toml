@@ -1,0 +1,28 @@
+[build-system]
+requires = ["poetry-core>=1.4.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "2024-balazs-avci-l1oi1i"
+version = "1"
+description = "L1OI1I"
+authors = ["Azra Avci"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+hydra-core = "^1.3.2"
+protobuf = ">=4.25.2"
+ray = "^2.6.3"
+grpcio = "^1.64.0"
+tensorboard = "^2.16.0"
+torch = "==1.13.1"
+torchvision = "==0.14.1"
+torchaudio = "==0.13.1"
+setuptools = "^65.5.0"
+packaging = "^23.0"
+# Mandatory dependencies
+flwr = { version = "^1.8.0", extras = ["simulation"] }
+
+distribute = "^0.7.3"
+

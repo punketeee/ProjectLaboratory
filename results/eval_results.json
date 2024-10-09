@@ -1,0 +1,602 @@
+[
+    {
+        "client_id": "2",
+        "round": 1,
+        "global_accuracy": 0.903,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "0",
+        "round": 1,
+        "global_accuracy": 0.925,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "3",
+        "round": 1,
+        "global_accuracy": 0.912,
+        "l1o_score": -0.0030000000000000027
+    },
+    {
+        "client_id": "1",
+        "round": 1,
+        "global_accuracy": 0.899,
+        "l1o_score": -0.0020000000000000018
+    },
+    {
+        "client_id": "4",
+        "round": 1,
+        "global_accuracy": 0.888,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "5",
+        "round": 1,
+        "global_accuracy": 0.949,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "6",
+        "round": 1,
+        "global_accuracy": 0.939,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "7",
+        "round": 1,
+        "global_accuracy": 0.964,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "9",
+        "round": 1,
+        "global_accuracy": 0.938,
+        "l1o_score": 0.0009999999999998899
+    },
+    {
+        "client_id": "8",
+        "round": 1,
+        "global_accuracy": 0.97,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "0",
+        "round": 2,
+        "global_accuracy": 0.97,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "1",
+        "round": 2,
+        "global_accuracy": 0.953,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "2",
+        "round": 2,
+        "global_accuracy": 0.959,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "3",
+        "round": 2,
+        "global_accuracy": 0.958,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "6",
+        "round": 2,
+        "global_accuracy": 0.976,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "4",
+        "round": 2,
+        "global_accuracy": 0.951,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "5",
+        "round": 2,
+        "global_accuracy": 0.975,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "7",
+        "round": 2,
+        "global_accuracy": 0.981,
+        "l1o_score": -0.0020000000000000018
+    },
+    {
+        "client_id": "8",
+        "round": 2,
+        "global_accuracy": 0.991,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "9",
+        "round": 2,
+        "global_accuracy": 0.971,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "0",
+        "round": 3,
+        "global_accuracy": 0.979,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "1",
+        "round": 3,
+        "global_accuracy": 0.961,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "2",
+        "round": 3,
+        "global_accuracy": 0.96,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "4",
+        "round": 3,
+        "global_accuracy": 0.97,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "3",
+        "round": 3,
+        "global_accuracy": 0.969,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "5",
+        "round": 3,
+        "global_accuracy": 0.984,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "6",
+        "round": 3,
+        "global_accuracy": 0.973,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "7",
+        "round": 3,
+        "global_accuracy": 0.981,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "9",
+        "round": 3,
+        "global_accuracy": 0.967,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "8",
+        "round": 3,
+        "global_accuracy": 0.988,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "0",
+        "round": 4,
+        "global_accuracy": 0.972,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "1",
+        "round": 4,
+        "global_accuracy": 0.956,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "2",
+        "round": 4,
+        "global_accuracy": 0.966,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "3",
+        "round": 4,
+        "global_accuracy": 0.964,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "4",
+        "round": 4,
+        "global_accuracy": 0.961,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "5",
+        "round": 4,
+        "global_accuracy": 0.987,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "6",
+        "round": 4,
+        "global_accuracy": 0.975,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "7",
+        "round": 4,
+        "global_accuracy": 0.993,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "9",
+        "round": 4,
+        "global_accuracy": 0.968,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "8",
+        "round": 4,
+        "global_accuracy": 0.991,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "0",
+        "round": 5,
+        "global_accuracy": 0.985,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "1",
+        "round": 5,
+        "global_accuracy": 0.972,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "3",
+        "round": 5,
+        "global_accuracy": 0.979,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "2",
+        "round": 5,
+        "global_accuracy": 0.966,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "4",
+        "round": 5,
+        "global_accuracy": 0.97,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "5",
+        "round": 5,
+        "global_accuracy": 0.993,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "7",
+        "round": 5,
+        "global_accuracy": 0.995,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "6",
+        "round": 5,
+        "global_accuracy": 0.989,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "8",
+        "round": 5,
+        "global_accuracy": 0.991,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "9",
+        "round": 5,
+        "global_accuracy": 0.974,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "2",
+        "round": 1,
+        "global_accuracy": 0.916,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "0",
+        "round": 1,
+        "global_accuracy": 0.934,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "3",
+        "round": 1,
+        "global_accuracy": 0.929,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "1",
+        "round": 1,
+        "global_accuracy": 0.92,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "5",
+        "round": 1,
+        "global_accuracy": 0.962,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "6",
+        "round": 1,
+        "global_accuracy": 0.959,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "4",
+        "round": 1,
+        "global_accuracy": 0.926,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "7",
+        "round": 1,
+        "global_accuracy": 0.956,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "9",
+        "round": 1,
+        "global_accuracy": 0.937,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "8",
+        "round": 1,
+        "global_accuracy": 0.984,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "0",
+        "round": 2,
+        "global_accuracy": 0.958,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "1",
+        "round": 2,
+        "global_accuracy": 0.946,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "2",
+        "round": 2,
+        "global_accuracy": 0.962,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "3",
+        "round": 2,
+        "global_accuracy": 0.951,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "4",
+        "round": 2,
+        "global_accuracy": 0.956,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "5",
+        "round": 2,
+        "global_accuracy": 0.974,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "6",
+        "round": 2,
+        "global_accuracy": 0.971,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "7",
+        "round": 2,
+        "global_accuracy": 0.984,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "8",
+        "round": 2,
+        "global_accuracy": 0.988,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "9",
+        "round": 2,
+        "global_accuracy": 0.968,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "0",
+        "round": 3,
+        "global_accuracy": 0.952,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "1",
+        "round": 3,
+        "global_accuracy": 0.952,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "2",
+        "round": 3,
+        "global_accuracy": 0.957,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "3",
+        "round": 3,
+        "global_accuracy": 0.964,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "4",
+        "round": 3,
+        "global_accuracy": 0.955,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "5",
+        "round": 3,
+        "global_accuracy": 0.98,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "6",
+        "round": 3,
+        "global_accuracy": 0.974,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "7",
+        "round": 3,
+        "global_accuracy": 0.979,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "8",
+        "round": 3,
+        "global_accuracy": 0.984,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "9",
+        "round": 3,
+        "global_accuracy": 0.961,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "0",
+        "round": 4,
+        "global_accuracy": 0.976,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "1",
+        "round": 4,
+        "global_accuracy": 0.969,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "3",
+        "round": 4,
+        "global_accuracy": 0.976,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "2",
+        "round": 4,
+        "global_accuracy": 0.973,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "4",
+        "round": 4,
+        "global_accuracy": 0.96,
+        "l1o_score": -0.0020000000000000018
+    },
+    {
+        "client_id": "5",
+        "round": 4,
+        "global_accuracy": 0.988,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "6",
+        "round": 4,
+        "global_accuracy": 0.982,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "7",
+        "round": 4,
+        "global_accuracy": 0.987,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "8",
+        "round": 4,
+        "global_accuracy": 0.994,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "9",
+        "round": 4,
+        "global_accuracy": 0.98,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "0",
+        "round": 5,
+        "global_accuracy": 0.968,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "1",
+        "round": 5,
+        "global_accuracy": 0.971,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "2",
+        "round": 5,
+        "global_accuracy": 0.976,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "3",
+        "round": 5,
+        "global_accuracy": 0.972,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "4",
+        "round": 5,
+        "global_accuracy": 0.97,
+        "l1o_score": -0.0010000000000000009
+    },
+    {
+        "client_id": "5",
+        "round": 5,
+        "global_accuracy": 0.995,
+        "l1o_score": 0.0010000000000000009
+    },
+    {
+        "client_id": "6",
+        "round": 5,
+        "global_accuracy": 0.987,
+        "l1o_score": 0.0020000000000000018
+    },
+    {
+        "client_id": "7",
+        "round": 5,
+        "global_accuracy": 0.995,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "8",
+        "round": 5,
+        "global_accuracy": 0.993,
+        "l1o_score": 0.0
+    },
+    {
+        "client_id": "9",
+        "round": 5,
+        "global_accuracy": 0.975,
+        "l1o_score": 0.0030000000000000027
+    }
+]

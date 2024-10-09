@@ -1,0 +1,20 @@
+---
+
+num_rounds: 5 # dnumber of FL rounds
+num_clients: 10 # total number of clients available
+batch_size: 20 # 
+num_classes: 10 # Number of classes is the same as the dataset (e.g., MNIST)
+num_clients_per_round_fit: 2 # Number of clients to involve in each fit round
+num_clients_per_round_eval: 2 # Number of clients to involve in each evaluate round
+server_round: 
+config_fit: 
+  lr: 0.01
+  momentum: 0.9 
+  local_epochs: 1
+secagg:
+   num_shares: 3
+   reconstruction_threshold: 2
+   timeout: 5
+evaluation_mode: "local"  # Can be "global" or "local"
+compute_l1o: true
+compute_i1i: true

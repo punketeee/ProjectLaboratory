@@ -1,0 +1,102 @@
+[
+    {
+        "client_id": "1",
+        "round": 1,
+        "i1i_score": 0.83
+    },
+    {
+        "client_id": "9",
+        "round": 1,
+        "i1i_score": 0.7816666666666666
+    },
+    {
+        "client_id": "2",
+        "round": 2,
+        "i1i_score": 0.025000000000000022
+    },
+    {
+        "client_id": "4",
+        "round": 2,
+        "i1i_score": 0.043333333333333335
+    },
+    {
+        "client_id": "3",
+        "round": 3,
+        "i1i_score": 0.01333333333333342
+    },
+    {
+        "client_id": "5",
+        "round": 3,
+        "i1i_score": -0.025000000000000022
+    },
+    {
+        "client_id": "5",
+        "round": 4,
+        "i1i_score": 0.0033333333333334103
+    },
+    {
+        "client_id": "4",
+        "round": 4,
+        "i1i_score": -0.013333333333333308
+    },
+    {
+        "client_id": "2",
+        "round": 5,
+        "i1i_score": -0.0050000000000000044
+    },
+    {
+        "client_id": "8",
+        "round": 5,
+        "i1i_score": 0.0050000000000000044
+    },
+    {
+        "client_id": "8",
+        "round": 1,
+        "i1i_score": 0.7949999999999999
+    },
+    {
+        "client_id": "9",
+        "round": 1,
+        "i1i_score": 0.805
+    },
+    {
+        "client_id": "3",
+        "round": 2,
+        "i1i_score": 0.021666666666666612
+    },
+    {
+        "client_id": "5",
+        "round": 2,
+        "i1i_score": 0.016666666666666607
+    },
+    {
+        "client_id": "1",
+        "round": 3,
+        "i1i_score": -0.010000000000000009
+    },
+    {
+        "client_id": "3",
+        "round": 3,
+        "i1i_score": -0.015000000000000013
+    },
+    {
+        "client_id": "6",
+        "round": 4,
+        "i1i_score": 0.0033333333333334103
+    },
+    {
+        "client_id": "2",
+        "round": 4,
+        "i1i_score": 0.00666666666666671
+    },
+    {
+        "client_id": "4",
+        "round": 5,
+        "i1i_score": -0.013333333333333308
+    },
+    {
+        "client_id": "7",
+        "round": 5,
+        "i1i_score": -0.021666666666666723
+    }
+]

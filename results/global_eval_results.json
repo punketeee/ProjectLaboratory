@@ -1,0 +1,74 @@
+[
+    {
+        "round": 0,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 1,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 2,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 3,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 4,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 5,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 0,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 1,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 2,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 3,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 4,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    },
+    {
+        "round": 5,
+        "loss": 0.0,
+        "accuracy": 0.0,
+        "num_clients": 10
+    }
+]
